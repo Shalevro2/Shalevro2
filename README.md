@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 🎓 I'm Shalev Roimi, a Computer Science student at Tel Hai college.
 
 ![image](https://user-images.githubusercontent.com/72393244/212745697-f02cbf6b-65df-4597-a438-b0bb631fa62b.png)
-   I’m currently working on [Smarticle](https://github.com/redhat-beyond/Smarticle) project, at red-had beyond course.
+   Check out my final project at Tel-Hai College- [Smarticle](https://github.com/redhat-beyond/Smarticle), guided by the Red-Hat.
+
+🔭 I’m currently working on [UniGrade](https://github.com/Shalevro2/UniGrade) project.
 
 ## 🛠️ Skills
 
